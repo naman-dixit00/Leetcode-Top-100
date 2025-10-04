@@ -1,4 +1,4 @@
-# LeetCode-75: DSA Solutions
+# LeetCode-100: DSA Solutions
 
 **Purpose**: Master key data structures & algorithms, understand patterns, and maintain a daily-commit-driven repository to accelerate learning and showcase problem-solving skills.
 
@@ -6,7 +6,7 @@
 _____________________________________________________________________
 | **Attribute** |                **Details**                         |     
 |---------------|----------------------------------------------------|
-| Total Problems| 75                                                 |
+| Total Problems| 100                                                 |
 | Languages     | C++                                                | 
 | Approach      | Pattern-oriented                                   |
 | Goal          | problem-solving portfolio with daily contributions |
@@ -27,25 +27,6 @@ _____________________________________________________________________
       o	Two Pointers, Sliding Window, Hashing, Dynamic Programming, Graphs, Recursion, etc.
       o	Each problem maps to one or multiple patterns for faster interview recall
 
-
-📂 **Folder Structure**
-
-```
-LeetCode-75/
-│
-├── README.md                         # Repository overview
-├── Day01_MergeStringsAlternately/
-│   ├── notes.md
-│   └── solution.cpp
-├── Day02_ValidParentheses/
-│   ├── notes.md
-│   └── solution.cpp
-...
-└── Day75_LastProblem/
-    ├── notes.md
-    └── solution.cpp
-
-```
 • **Usage Guidelines**
 
 Review notes.md for patterns & intuition before coding
@@ -70,4 +51,4 @@ Competitive Programming & Pattern-based problem-solving guides
 
 📌 _"This digital credential represents the culmination of a rigorous 75-day LeetCode challenge. It serves as a testament to my strong problem-solving skills, unwavering consistency in algorithm development"_
 
-![LeetCode Badge](<badge leetcode 75-1.png>)
+![LeetCode Badge](<>)
